@@ -23,7 +23,7 @@ gem 'authlogic',   '~> 3.5.0'
 gem "asset_sync",         '~> 1.2.1'
 gem 'awesome_nested_set', '~> 3.1.1'
 
-gem 'aws-sdk',        '~> 2.3.21'
+# gem 'aws-sdk',        '~> 2.3.21'
 gem 'bluecloth',      '~> 2.2.0'
 gem 'cancancan',      '~> 1.15.0'
 gem 'chronic'
